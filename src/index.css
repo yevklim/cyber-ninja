@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'KelsonSans';
+  src: local('Kelson Sans RU'), url(./fonts/Kelson\ Sans\ Regular\ RU.otf) format('truetype');
+}
+
+html, body {
+  margin: 0;
+  overflow: hidden;
+  font-family: KelsonSans;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
