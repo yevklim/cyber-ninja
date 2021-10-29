@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/cyber-ninja/static/css/main.ae938a75.chunk.css",
+    "main.js": "/cyber-ninja/static/js/main.330ceb24.chunk.js",
+    "main.js.map": "/cyber-ninja/static/js/main.330ceb24.chunk.js.map",
+    "runtime-main.js": "/cyber-ninja/static/js/runtime-main.27d941a6.js",
+    "runtime-main.js.map": "/cyber-ninja/static/js/runtime-main.27d941a6.js.map",
+    "static/js/2.f0a96bb7.chunk.js": "/cyber-ninja/static/js/2.f0a96bb7.chunk.js",
+    "static/js/2.f0a96bb7.chunk.js.map": "/cyber-ninja/static/js/2.f0a96bb7.chunk.js.map",
+    "index.html": "/cyber-ninja/index.html",
+    "static/css/main.ae938a75.chunk.css.map": "/cyber-ninja/static/css/main.ae938a75.chunk.css.map",
+    "static/js/2.f0a96bb7.chunk.js.LICENSE.txt": "/cyber-ninja/static/js/2.f0a96bb7.chunk.js.LICENSE.txt",
+    "static/media/0day.b5ea8fd8.svg": "/cyber-ninja/static/media/0day.b5ea8fd8.svg",
+    "static/media/Backdoor.a61bcb4d.svg": "/cyber-ninja/static/media/Backdoor.a61bcb4d.svg",
+    "static/media/BruteForce.4fc51338.svg": "/cyber-ninja/static/media/BruteForce.4fc51338.svg",
+    "static/media/CorpDataDefense.05cb7bd3.svg": "/cyber-ninja/static/media/CorpDataDefense.05cb7bd3.svg",
+    "static/media/DefenseBreak.90fc4843.svg": "/cyber-ninja/static/media/DefenseBreak.90fc4843.svg",
+    "static/media/DoS.44d28041.svg": "/cyber-ninja/static/media/DoS.44d28041.svg",
+    "static/media/Downloader.1483a21c.svg": "/cyber-ninja/static/media/Downloader.1483a21c.svg",
+    "static/media/index.css": "/cyber-ninja/static/media/Kelson Sans Regular RU.cc980e54.otf",
+    "static/media/MitM-H.4abc63e8.svg": "/cyber-ninja/static/media/MitM-H.4abc63e8.svg",
+    "static/media/PersonalDataDefense.34b603fa.svg": "/cyber-ninja/static/media/PersonalDataDefense.34b603fa.svg",
+    "static/media/Phishing.e2bed7c3.svg": "/cyber-ninja/static/media/Phishing.e2bed7c3.svg",
+    "static/media/Ransomware.978ba84d.svg": "/cyber-ninja/static/media/Ransomware.978ba84d.svg",
+    "static/media/Rootkit.578858db.svg": "/cyber-ninja/static/media/Rootkit.578858db.svg",
+    "static/media/SQLInjection.da355863.svg": "/cyber-ninja/static/media/SQLInjection.da355863.svg",
+    "static/media/Trojan.762dd04b.svg": "/cyber-ninja/static/media/Trojan.762dd04b.svg",
+    "static/media/Virus.6dda48e4.svg": "/cyber-ninja/static/media/Virus.6dda48e4.svg",
+    "static/media/Worm.2301293b.svg": "/cyber-ninja/static/media/Worm.2301293b.svg",
+    "static/media/shield.9ae59952.svg": "/cyber-ninja/static/media/shield.9ae59952.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27d941a6.js",
+    "static/js/2.f0a96bb7.chunk.js",
+    "static/css/main.ae938a75.chunk.css",
+    "static/js/main.330ceb24.chunk.js"
+  ]
+}
