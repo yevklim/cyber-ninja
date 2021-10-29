@@ -15,6 +15,7 @@
   .flex-direction-to-orientation {
     flex-direction: column !important;
     flex-wrap: nowrap !important;
+    gap: 2vmax !important;
   }
 }
 
@@ -112,12 +113,19 @@
 }
 
 .Page .Container img {
-  max-width: 30vmax;
-  max-height: 30vmax;
+  /* width: 30vmax; */
+  /* height: 30vmax; */
+  max-height: min(60vh, 30vmax);
+  max-width: min(60vw, 30vmax);
 }
 
 .Page .Container .wide-img {
   max-width: 70vw;
+}
+
+.Page .Container .smaller-img {
+  max-width: 20vmax;
+  max-height: 20vmax;
 }
 
 .Page .Container .high-img {
@@ -139,6 +147,15 @@
 
 .pointer {
   cursor: pointer;
+}
+
+@media (orientation: landscape) and (min-aspect-ratio: 2/1) {
+  ul {
+    margin: 1vmin;
+  }
+  ul li {
+    /* font-size: min(2.6vmax, 6vh) !important; */
+  }
 }
 
 ul li {

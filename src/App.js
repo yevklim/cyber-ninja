@@ -181,7 +181,7 @@ const Pages = {
     </Container>,
 
     <Container id="Personal-Consequences" className="flex-direction-to-orientation" key={1}>
-      {/* <img src={DefenseBreak} alt="Наслідки кібератаки"/> */}
+      <img src={DefenseBreak} alt="Наслідки кібератаки" className="smaller-img"/>
       <SubContainer className="Column">
         <h3 className="pink-color">Імовірні наслідки кібератаки на особу:</h3>
         <ul>
@@ -189,8 +189,8 @@ const Pages = {
           <li>Порушення цілісності даних та їх структури</li>
           <li>Втрата даних</li>
           <li>Використання персональних даних для шантажу особи</li>
-          <li>Крадіжка грошей з банківського рахунку, криптовалютних активів</li>
-          <li>Використання обчислювальних пристроїв особи в інтересах зловмисників</li>
+          <li>Крадіжка грошей та інших цифрових активів</li>
+          <li>Використання пристроїв особи в інтересах зловмисників</li>
         </ul>
       </SubContainer>
     </Container>,
@@ -354,7 +354,7 @@ const Pages = {
     </Container>,
 
     <Container id="Business-Consequences" className="flex-direction-to-orientation" key={1}>
-      {/* <img src={DefenseBreak} alt="Наслідки кібератаки"/> */}
+      <img src={DefenseBreak} alt="Наслідки кібератаки" className="smaller-img"/>
       <SubContainer className="Column">
         <h3 className="pink-color">Імовірні наслідки кібератаки на організацію:</h3>
         <ul>
@@ -490,7 +490,7 @@ const Pages = {
       ],
       [
         <Container id="Business-Classification-SQLInjection-1" key={1}>
-          <img src={SQLInjection} alt="SQL-ін'єкція" className="wide-img"/>
+          <img src={SQLInjection} alt="SQL-ін'єкція"/>
           <h4>
             <span className="red2-color">SQL-ін'єкція</span> — впровадження в запит довільного SQL-коду. Вона можлива за некоректної обробки вхідних даних, що використовуються в SQL-запитах
           </h4>
